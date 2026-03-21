@@ -26,6 +26,7 @@ const customer = {
 };
 
 // Method calls to test the code
+
 console.log(customer.getBalance()); // 24000
 console.log(customer.getDiscount()); // 0.1
 customer.setDiscount(0.2);
